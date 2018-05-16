@@ -1,0 +1,51 @@
+body{
+    margin:0px;
+}
+
+nav{
+    height:auto;
+    width:100%;
+}
+
+nav li {
+    display:inline-block;
+    width:100%;
+    height: 5%;
+}
+
+nav a {
+    text-decoration:none;
+    background-color:#343477;
+    display:inline-block;
+    
+}
+
+nav a:hover{
+
+}
+
+.Layout {
+  text-align: center;
+}
+
+.Layout-header {
+  background-color: #28774F;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  margin:auto;
+}
+
+.Layout-title {
+  font-size: 3em;
+}
+
+.Layout-intro {
+  font-size: large;
+}
+
+footer{
+    height:20px;
+    width:100%;
+    background-color:grey;
+}
