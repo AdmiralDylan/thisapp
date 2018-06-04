@@ -7,12 +7,9 @@ export default class Home extends Component {
 
     render() {
         return (
+            
           <div className="Layout">
-        
-            <header className="Layout-header">
-              <div className="Layout-image"></div>
-              <h1 className="Layout-title">Photo App</h1>
-            </header>
+            <h1>Welcome Home</h1>
           </div>
       );
     }

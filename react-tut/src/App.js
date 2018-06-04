@@ -6,11 +6,14 @@ import { Footer } from './Footer';
 import Home from './Home';
 import Login from './Login';
 import Main from './Main';
+import Header from './Header';
 
 const App = () => (
 <div>
-    <Main />
+    <Header />
     <Nav />
+    <Main />
+    <Footer />
 </div>
 );
 
